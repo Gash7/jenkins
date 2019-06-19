@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ac788a9-96e5-474b-82b1-6842eb3f6937" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppFlask/flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppFlask/flask/Application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppFlask/flask/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppFlask/flask/templates/loginhtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppFlask/flask/templates/regihtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppFlask/flask/templates/savehtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Application/Bankapp/BankApplicationService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContextManagers/ContextLib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Shallow&amp;Deep/Copy by operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Shallow&amp;Deep/Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Shallow&amp;Deep/Deep_Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Shallow&amp;Deep/Shallow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Shallow&amp;Deep/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/Scoopen/VEnv/scoopen/Course/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/Postman/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/Postman/books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/Postman/bookscurd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Clouser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Genrator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Genrator11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Iterator1123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Itrator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/itrator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loop Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/Flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/Flask/flask_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/Flask/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/Flask/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/Flask/templates/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/Flask/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/myapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/mynew/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/templates/saveuser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myapp/MyApp/templates/singup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyAdvance_Concepts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyAdvance_Concepts/Properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyAdvance_Concepts/copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WTFile/Form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WTFile/WTF/WTfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WTFile/WTF/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WTFile/WTF/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WTFile/WTF/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basics/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myweb/myWeb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myweb/templates/My_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcelOp/DBoperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ExcelOp/DBoperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PymySql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PymySql.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flask.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/flask.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="745" />
+    <option name="y" value="5" />
+    <option name="width" value="594" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="flask" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jenkins" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac788a9-96e5-474b-82b1-6842eb3f6937" name="Default Changelist" comment="" />
+      <created>1560935329649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560935329649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="DB Browser" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
